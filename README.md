@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Seth!</h1>
 <h3 align="center">Computer Science student at Colorado School of Mines with an interest in SWE and Game Dev</h3>
 
-- 🔭 I’m currently working on [XIV Rotation Builder](https://github.com/gik0geck0/xiv-rotation-builder)
+- 🔭 I’m currently working on [XIV Rotation Builder](https://github.com/gik0geck0/xiv-rotation-builder) and [Frog Finance](https://github.com/AvanShade/Frog-Finance)
 
-- 🌱 I’m currently learning **OpenGL, JavaScript, TypeScript, and Jest Testing**
+- 🌱 I’m currently learning **OpenGL, JavaScript, TypeScript, Jest Testing, and PyQt6**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
